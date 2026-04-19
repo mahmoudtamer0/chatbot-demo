@@ -1,6 +1,5 @@
 const socket = io("https://aleef-server.up.railway.app", {
     auth: {
-        token: "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJuYW1lIjoiTW9oYW1lZCBEZXNhd3kiLCJpZCI6IjY5Y2MyOTA4YjlmMjdhMjQ0YmM0YWZmZCIsInJvbGUiOiJVU0VSIiwic2Vzc2lvbklkIjoiNjllNDNmNjNhNThlZTNiZmU1NjIzMWRhIiwiZW1haWwiOiJtb2Rlc2F3eXlAZ21haWwuY29tIiwiaWF0IjoxNzc2NTY2MTE1LCJleHAiOjE3NzY5OTgxMTV9.0htWN6BAcRSQOZwQj4YWRFOHVDfxbX9yemVgeF9hu4c" // optional, if your server requires authentication
     }
 });
 
